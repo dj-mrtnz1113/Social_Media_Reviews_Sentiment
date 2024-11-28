@@ -30,8 +30,8 @@ The dataset contains the following columns:
 3. Use the provided scripts to load and analyze the dataset.
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/dj-mrtnz1113/Social_Media_Reviews_Sentiment.git
+cd filename
 ```
 
 ## Example Analysis
